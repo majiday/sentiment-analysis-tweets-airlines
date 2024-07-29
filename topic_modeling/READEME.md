@@ -32,7 +32,7 @@ Results include visual word clouds that represent the most frequent and signific
 Below are visual word clouds representing the most frequent and significant terms associated with topics in the tweets. These visuals help to quickly gauge public opinion and highlight areas of concern or praise.
 
 ### Entire Dataset
-![Word Cloud - Entire Dataset](https://drive.google.com/file/d/1FxOnKhljhtrq8BAQE991Neb6lbKDD3vN/view?usp=share_link)
+![Word Cloud - Entire Dataset](results/entire_data.jpg)
 
 ## Requirements
 This project requires Python 3.x and the following packages:
