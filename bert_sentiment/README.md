@@ -33,3 +33,13 @@ pip install -r requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
+
+
+
+4. **Understanding the Output:**
+The application will output the accuracy of the sentiment predictions compared to the human-labeled data, indicating how well the model performed.
+
+## Additional Information
+- The dataset used in this project (`Tweets.csv`) should be placed in the root directory of the project or modified the file path in `main.py` accordingly.
+- The model used for sentiment analysis is `nlptown/bert-base-multilingual-uncased-sentiment`, which can be changed as needed in the `sentiment_analysis.py`.
+
