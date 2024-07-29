@@ -24,6 +24,10 @@ This project analyzes the sentiments of tweets using OpenAI's language model. Th
 - Place your OpenAI API key in a file named `api_key.txt` in the project root directory.
 - Ensure your dataset (`Tweets.csv`) is in the project root directory or update the path in `data_processing.py` accordingly.
 
+## Results
+### performance og gpt-3.5 compared to human lables
+![accuracy of model](results/entire_data.jpg)
+
 ## Usage
 
 Run the main script to perform sentiment analysis.
