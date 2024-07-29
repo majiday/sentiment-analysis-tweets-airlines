@@ -34,6 +34,9 @@ Below are visual word clouds representing the most frequent and significant term
 ### Entire Dataset
 ![Word Cloud - Entire Dataset](results/entire_data.jpg)
 
+### American Airlines
+![Word Cloud - Entire Dataset](results/American.png)
+
 ## Requirements
 This project requires Python 3.x and the following packages:
 - pandas
