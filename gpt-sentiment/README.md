@@ -25,7 +25,8 @@ This project analyzes the sentiments of tweets using OpenAI's language model. Th
 - Ensure your dataset (`Tweets.csv`) is in the project root directory or update the path in `data_processing.py` accordingly.
 
 ## Results
-### performance og gpt-3.5 compared to human lables
+performance og gpt-3.5 compared to human lables
+
 ![accuracy of model](results/sample_results_100.png)
 
 ## Usage
