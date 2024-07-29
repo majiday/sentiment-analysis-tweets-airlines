@@ -26,7 +26,7 @@ This project analyzes the sentiments of tweets using OpenAI's language model. Th
 
 ## Results
 ### performance og gpt-3.5 compared to human lables
-![accuracy of model](results/entire_data.jpg)
+![accuracy of model](results/sample_results_100.png)
 
 ## Usage
 
